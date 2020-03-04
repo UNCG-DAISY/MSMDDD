@@ -10,3 +10,9 @@ As before, Inception-V3 was our best model in this part. We used a slightly modi
 
 ## Image Downloader
 To make things easier on is, we created an image downloading script that takes a bunch of tweets, their url links, their image classes; and try to download the image inside it's appropriate path.
+
+## Models Evaluated
+
+- VGG
+- Res-Net
+- Inception-V3
